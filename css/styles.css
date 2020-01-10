@@ -145,13 +145,15 @@ h2{
 
 .cta-message{
   font-family: "Montserrat-Black";
-  font-size: 3rem;
+  font-size: 3.5rem;
+  line-height: 1.5;
   padding: 50px 20px 0 20px;
-  padding-top: 50px;
 }
 
 #cta{
   background-color: #ff4c68;
+  color: white;
+  padding: 7% 3%;
   text-align: center;
 }
 
