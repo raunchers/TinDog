@@ -129,3 +129,50 @@ h2{
 .pricing-column{
   padding: 3% 2%;
 }
+
+@media(max-width: 1028px){
+  #title{
+    text-align: center;
+  }
+
+  .iphone-dog{
+    position: static;
+    transform: rotate(0);
+  }
+}
+
+/* Call to Action Section */
+
+.cta-message{
+  font-family: "Montserrat-Black";
+  font-size: 3rem;
+  padding: 50px 20px 0 20px;
+  padding-top: 50px;
+}
+
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+}
+
+
+/* Footer */
+
+.social-media-container{
+  padding: 0 0 20px 0;
+}
+
+.footer-social-media{
+  color: #ef8172;
+  padding: 0 10px 0 10px;
+}
+
+.footer-social-media:hover{
+  color: #ff4c68;
+}
+
+#footer{
+  background-color: #fff;
+  padding: 50px;
+  text-align: center;
+}
