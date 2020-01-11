@@ -25,6 +25,16 @@ h1, h2, h3, h4, h5, h6{
   padding: 7% 15%;
 }
 
+/* Sections */
+.colored-section{
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.white-section{
+  background-color: #fff;
+}
+
 /* Navigaiton Bar */
 .navbar{
   padding: 0 0 4.5rem;
@@ -47,14 +57,9 @@ h1, h2, h3, h4, h5, h6{
 
 /* Title Section */
 
-#title{
-  background-color: #ff4c68;
-  color: #fff;
-  text-align: left;
-}
-
 #title .container-fluid{
   padding: 3% 15% 7%;
+  text-align: left;
 }
 
 /* Download Buttons */
@@ -87,7 +92,6 @@ h1, h2, h3, h4, h5, h6{
 }
 
 #features{
-  background-color: #fff;
   position: relative;
 }
 
@@ -114,7 +118,6 @@ h1, h2, h3, h4, h5, h6{
 
 #testimonials{
   background-color: #ef8172;
-  color: #fff;
 }
 
 /* Press Section */
@@ -158,8 +161,6 @@ h1, h2, h3, h4, h5, h6{
 /* Call to Action Section */
 
 #cta{
-  background-color: #ff4c68;
-  color: white;
   padding: 9% 3%;
 }
 
@@ -180,6 +181,5 @@ h1, h2, h3, h4, h5, h6{
 }
 
 #footer{
-  background-color: #fff;
-  padding: 50px;
+  padding: 1%;
 }
